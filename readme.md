@@ -3,7 +3,8 @@
 
 **Shanshan Zheng, Juanyun Li, KingShing Zhang, Baohang Lin, Jia Li, ZhiCheng Li, Yuanshen Zhao**
 
-![img](resources/PABBDM_architecture.png)
+
+![architecture](resources/PABBD_architecture.png)
 
 ## Requirements
 ```commandline
