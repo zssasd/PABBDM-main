@@ -1,7 +1,6 @@
 
 #### [PABBDM: A novel pathology-aware Brownian bridge-based diffusion model for translating for H&E to IHC-stained images]
 
-**Shanshan Zheng, Juanyun Li, KingShing Zhang, Baohang Lin, Jia Li, ZhiCheng Li, Yuanshen Zhao**
 
 
 ![architecture](resources/PABBD_architecture.png)
